@@ -1,5 +1,4 @@
-# Metasploit Framework — Penetration Testing Lab
-> **Module:** CSI_7_PTE — Penetration Testing and Ethical Hacking  
+# Metasploit Framework Penetration Testing Lab
 > **Target:** Metasploitable 2  
 > **Attacker OS:** Kali Linux  
 > **Environment:** VirtualBox NAT Network  

