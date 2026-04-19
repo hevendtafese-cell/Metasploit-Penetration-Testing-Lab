@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository documents a full penetration test conducted against **Metasploitable 2** using the **Metasploit Framework**. The assessment follows a real-world penetration testing lifecycle across seven phases — from initial reconnaissance through to privilege escalation, pivoting, and persistent backdoor creation.
+This repository documents a full penetration test conducted against **Metasploitable 2** using the **Metasploit Framework**. The assessment follows a real-world penetration testing lifecycle across seven phases from initial reconnaissance through to privilege escalation, pivoting, and persistent backdoor creation.
 
 The goal of this project is to evaluate the Metasploit Framework's architectural capabilities, demonstrate its effectiveness as an integrated security platform, and identify its limitations in a controlled environment.
 
